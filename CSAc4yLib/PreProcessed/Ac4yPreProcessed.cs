@@ -13,11 +13,6 @@ namespace d7p4n4.PreProcessed.Class
 
 	{
     		public String serialization { get; set; }
-    		public Ac4yIdentificationBase template { get; set; }
-    		public String GUID { get; set; }
-    		public String HumanId { get; set; }
-    		public String PublicHumanId { get; set; }
-    		public Int32 id { get; set; }
 		
 		public Ac4yPreProcessed()
 		{
